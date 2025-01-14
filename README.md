@@ -1,12 +1,4 @@
 # Toronto Rental Analysis
-![](https://github.com/sarahm44/rental-analysis/blob/main/Images/toronto.jpg)
-
-## Table of Contents
-- [Overview](#overview)
-- [Rental Analysis](#rental-analysis)
-- [Dashboard](#dashboard)
-- [Environment](#environment)
-- [How to Run the Dashboard](#how-to-run-the-dashboard)
 
 ## Overview
 
